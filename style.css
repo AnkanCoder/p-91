@@ -1,0 +1,27 @@
+body
+{
+	background-image: url("https://scriptstown.com/wp-content/themes/galaxis-scriptstown/images/sections/section-background-2.png");
+    background-size: contain;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(168, 252, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        font-family: cursive;
+        font-size: 40px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+h1{
+    color: white;
+    font-size: 2cm;
+}
